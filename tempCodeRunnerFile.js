@@ -1,0 +1,1 @@
+console.log(`Hi, my name is ${userInfo.myName} and I am a student in the ${userInfo.campus} campus.` )
